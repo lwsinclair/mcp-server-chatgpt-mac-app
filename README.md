@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yimajo-mcp-server-chatgpt-mac-app-badge.png)](https://mseep.ai/app/yimajo-mcp-server-chatgpt-mac-app)
+
 # mcp-server-chatgpt-mac-app
 
 This is an MCP server that allows you to use the ChatGPT macOS app via MCP.
